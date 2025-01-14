@@ -1,0 +1,5 @@
+train: C:/Users/LENOVO/Downloads/car-damage-detecting-MaskRCNN-main - Copy/car-damage-detecting-MaskRCNN-main - Copy/dataset/images/train
+val: C:/Users/LENOVO/Downloads/car-damage-detecting-MaskRCNN-main - Copy/car-damage-detecting-MaskRCNN-main - Copy/dataset/images/val
+
+nc: 3  # Jumlah kategori
+names: ['GlassBreak', 'Dent', 'Scratch']  # Nama kategori
